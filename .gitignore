@@ -1,0 +1,8 @@
+code/*
+!code/.gitkeep
+.env
+
+node_modules
+
+mongodb/log/*
+!mongodb/log/.gitkeep
